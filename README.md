@@ -1,7 +1,7 @@
 # CodeX
 Website for CodeX, SIT
 
-Contributer:  
+## Contributors:  
 Ankush Dutta  
 Abhishek Patawari  
 Japit Chhabra  
