@@ -5,3 +5,4 @@ Website for CodeX, SIT
 Ankush Dutta  
 Abhishek Patawari  
 Japit Chhabra  
+Mitiksha Paliwal
